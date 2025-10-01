@@ -1,0 +1,28 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak
+venv.bak
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Build and distribution artifacts
+/build/
+/dist/
+/pyinstaller/
+*.spec
+
+# Caches and logs
+.cache/
+.coverage
+htmlcov/
+pip-log.txt
+
+# IDE settings
+.idea/
+.vscode/
