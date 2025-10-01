@@ -1,10 +1,5 @@
 # 🖥️ PC Admin Bot
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-
-<summary>🇬🇧 English Version</summary>
-
 ### About the Bot
 
 **PC Admin Bot** is a powerful and multifunctional Telegram bot designed for complete remote management of your Windows computer. With it, you can perform a wide range of tasks: from simple operations like shutdown or restart to advanced system administration, including process management, system settings modification, and executing terminal commands.
